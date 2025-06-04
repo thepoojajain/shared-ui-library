@@ -1,6 +1,8 @@
 # 🧱 Shared UI Library
 
-A reusable React component library for internal use, designed to be consumed across multiple micro frontends or applications.
+A reusable React component library built as part of a **Micro Frontend (MFE)** demo to showcase **build-time integration using npm and GitHub**.
+
+This library is intended to be consumed by independently deployed apps that share a design system or core UI elements. It demonstrates how to share functionality across MFEs **without runtime orchestration**.
 
 ## 📦 Project Structure
 
